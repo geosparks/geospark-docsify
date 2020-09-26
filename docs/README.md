@@ -26,3 +26,20 @@ But let's throw in a <b>tag</b>.
 | Active   	| 7% - 10%             	| 25 ~ 250 meters                   	| Ride Hailing / Sharing                      	|
 | Reactive 	| 1% - 7%              	| 50 ~ 500 meters                   	| On Demand Services                          	|
 | Passive  	| 0% - 1%              	| 100 ~ 1000 meters                 	| Social Apps                                 	|
+
+
+<!-- tabs:start -->
+
+#### **English**
+
+Hello!
+
+#### **French**
+
+Bonjour!
+
+#### **Italian**
+
+Ciao!
+
+<!-- tabs:end -->
