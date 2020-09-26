@@ -28,7 +28,7 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
-#### **Python**
+#### **Owns**
 
 ```python
 s = "Python syntax highlighting"
