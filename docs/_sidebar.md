@@ -35,3 +35,5 @@
 
 - Security
 
+<div id="mb-footer"></div>
+
