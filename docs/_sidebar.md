@@ -8,7 +8,7 @@
 
   iOS SDK
   
-  - [Quickstart](quickstart.md)
+  - [Quickstart](quickstart-ios.md)
   - [SDK Methods](quickstart.md)
   - [Utility Methods](quickstart.md)
   - [Troubleshooting](quickstart.md)

@@ -5,20 +5,11 @@
 #### Body - Explore our guides and examples to integrate GeoSpark.
 ###### Caption 2 - Explore our guides and examples to integrate GeoSpark.
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+
  
-```python
-s = "Python syntax highlighting"
-print s
-```
+
  
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+
 
 | Mode     	| Battery usage        	| ***Updates every***                     	| ***Optimised for/advised for***                   	|
 |----------	|----------------------	|-----------------------------------	|---------------------------------------------	|
@@ -30,17 +21,26 @@ But let's throw in a <b>tag</b>.
 
 <!-- tabs:start -->
 
-#### **English**
+#### **Javascript**
 
-Hello!
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
-#### **French**
+#### **Owns**
 
-Bonjour!
+```python
+s = "Python syntax highlighting"
+print s
+```
 
-#### **Italian**
+#### **Python**
 
-Ciao!
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 <!-- tabs:end -->
 
